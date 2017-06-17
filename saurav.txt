@@ -1,1 +1,2 @@
-this is our first git class
+this is our first git class.
+i am super happy
