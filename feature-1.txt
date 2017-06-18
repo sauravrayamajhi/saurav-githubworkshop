@@ -1,0 +1,3 @@
+printtf("i am learning git hub");
+def newfunction
+printf("this is new");
